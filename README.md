@@ -10,4 +10,5 @@ This program requires the PyTube module which can be downloaded using pip via Py
 Then you can simply clone the repository and run the script.
 
 `git clone https://github.com/Verified-Madgod/iPyTube.git`
+
 `python main.py`
